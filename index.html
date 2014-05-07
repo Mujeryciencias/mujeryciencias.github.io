@@ -1,6 +1,13 @@
-<html>
-	<body>
-	<h1> Hola mundo </h1>
-	<p> Mi nuevo sitio web </p>
-	</body>
-</html>
+---
+layout: default
+title: Mujer y ciencia
+---
+
+<div id="home">
+  <h1>Todas las entradas</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
