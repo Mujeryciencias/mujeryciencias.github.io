@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: css
 title:  "Porcentaje de Mujeres Investigadoras"
 date:   2014-05-11 14:51:08
 categories: principal
