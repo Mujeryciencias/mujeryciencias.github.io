@@ -6,5 +6,5 @@ categories: principal
 ---
 
 <p> <head> Porcentaje de Mujeres Investigadoras por país </head>
-<IMG SRC="grafico.jpg">
+<IMG> "grafico.jpg" </IMG>
 </p>
