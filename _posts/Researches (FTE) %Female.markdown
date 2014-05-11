@@ -1,1 +1,2 @@
-<IMG SRC="grafico.jpg">
+<html> <IMG SRC="grafico.jpg">
+</html>
